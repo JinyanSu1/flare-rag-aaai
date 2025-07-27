@@ -1,5 +1,3 @@
-# Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control
-
 
 
 ## Installation
